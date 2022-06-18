@@ -34,7 +34,7 @@ local REMOTE = RS.Remote
 local BINDABLE = RS.Bindable
 
 local MAX_SUMMON = 10
-local MAX_EQUIPPED = 7
+local MAX_EQUIPPED = 9
 local MAX_ROOM = 50
 local KILLING_METEOR = false
 local KILLING_GIFT = false
@@ -103,8 +103,10 @@ local ultimateTrial
 local autoDamage
 local autoCollect
 local autoUltSkip
-local reEquippingPets = false
-local equippingTeam = false
+local
+local equippi
+
+
 
 local bsec1
 local farmAllToggle
