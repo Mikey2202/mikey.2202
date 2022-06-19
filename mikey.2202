@@ -907,7 +907,7 @@ do
             autoButtonPress = value
         end)
 
-        csec1:addToggle("Ignore chests (only works on Hard)", nil, function(value)
+        csec1:addToggle("Ignore chests (only works on Ultimate)", nil, function(value)
             ignoreChest = value
         end)
 
