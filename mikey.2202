@@ -3,7 +3,7 @@ if game.PlaceId ~= ANIME_FIGHTERS_PLACE_ID then return end
 
 _G.disabled = false
 _G.themes = _G.themes or { -- themes
-    Background = Color3.fromRGB(98, 10, 10),
+    Background = Color3.fromRGB(24, 24, 24),
     Glow = Color3.fromRGB(255, 255, 255),
     Accent = Color3.fromRGB(0, 0, 0),
     LightContrast = Color3.fromRGB(36, 36, 36),
