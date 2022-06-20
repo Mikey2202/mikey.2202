@@ -7,7 +7,7 @@ _G.themes = _G.themes or { -- themes
     Glow = Color3.fromRGB(255, 255, 255),
     Accent = Color3.fromRGB(0, 0, 0),
     LightContrast = Color3.fromRGB(36, 36, 36),
-    GreenContrast = Color3.fromRGB(14, 14, 14),
+    DarkContrast = Color3.fromRGB(14, 14, 14),
     TextColor = Color3.fromRGB(255, 255, 255)
 }
 
